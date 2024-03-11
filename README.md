@@ -1,4 +1,4 @@
 # LoginPage
-tecnology : HTML, CSS, JAVASCRIPT
+technology : HTML, CSS, JAVASCRIPT
 
 ![alt text](image.png)
